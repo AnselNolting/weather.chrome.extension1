@@ -1,12 +1,10 @@
 {
-    "name": "Weather",
-    "version":"1.0",
-    "description": "find weather in specfic city",
-    "manifest_Version": "3",
-    "author": "Brendan X & Ansel N",
-    "action": {
-        "deafult_popup":"index.html",
-        "default_title": "Weather in your city"
-    },
-
+  "manifest_version": 3,
+  "name": "Minimal Manifest",
+  "version": "1.0.0",
+  "description": "check the weather in a city/state",
+  "icons": {
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
 }
