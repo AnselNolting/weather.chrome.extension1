@@ -1,6 +1,6 @@
 {
-  "manifest_version": 3,
-  "name": "Minimal Manifest",
+  "manifest_version": 2,
+  "name": "weather checker: city/state",
   "version": "1.0.0",
   "description": "check the weather in a city/state",
   "icons": {
