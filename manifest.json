@@ -1,6 +1,13 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "Find weather for state/city",
   "version": "0.0.1",
-  "description": "Find weather for state/city"
+  "description": "Find weather for state/city",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "title": "Your Browser Action Name"
+  }
 }
