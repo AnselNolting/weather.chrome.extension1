@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
   "name": "Find weather for state/city",
   "version": "0.0.1",
+  "manifest_version": 2,
   "description": "Find weather for state/city",
 
   "background": {
