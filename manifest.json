@@ -3,11 +3,13 @@
   "name": "Find weather for state/city",
   "version": "0.0.1",
   "description": "Find weather for state/city",
+
   "background": {
     "scripts": ["background.js"],
     "persistent": false
   },
   "browser_action": {
-    "title": "Your Browser Action Name"
+    "default_popup": "index.html",
+    "default_title": "Weather Checker"
   }
 }
