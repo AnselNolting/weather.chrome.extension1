@@ -1,11 +1,12 @@
 {
     "name": "Weather",
     "version":"1.0.0",
-    "description": "fomd weather in specfic city",
+    "description": "find weather in specfic city",
     "manifest_Version": "3",
     "author": "Brendan X & Ansel N",
     "action": {
         "deafult_popup":"index.html",
         "default_title": "Weather in your city"
+    },
 
 }
