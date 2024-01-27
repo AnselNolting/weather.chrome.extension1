@@ -2,7 +2,7 @@
     "name": "Weather",
     "version":"1.0",
     "description": "find weather in specfic city",
-    "manifest_Version": "2.0",
+    "manifest_Version": "3",
     "author": "Brendan X & Ansel N",
     "action": {
         "deafult_popup":"index.html",
