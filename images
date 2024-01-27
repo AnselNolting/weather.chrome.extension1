@@ -1,6 +1,6 @@
 const weatherImageSrc {
     Cloudy: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBm8F-rNJSM6Y2xSEpj8yzmyMs31tCWDlDQ&usqp=CAU",
-
+Partly Cloudy: {}
 
 
 }
