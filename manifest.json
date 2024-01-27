@@ -1,10 +1,6 @@
 {
-  "manifest_version": 2,
-  "name": "weather checker: city/state",
-  "version": "1.0.0",
-  "description": "check the weather in a city/state",
-  "icons": {
-    "48": "images/icon-48.png",
-    "128": "images/icon-128.png"
-  }
+  "manifest_version": 3,
+  "name": "Find weather for state/city",
+  "version": "0.0.1",
+  "description": "Find weather for state/city"
 }
